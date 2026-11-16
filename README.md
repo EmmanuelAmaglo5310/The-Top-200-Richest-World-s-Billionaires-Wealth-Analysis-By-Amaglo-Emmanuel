@@ -61,4 +61,10 @@ Though Technology has the highest total count, Telecom yielded the highest avera
 
 *Pareto Distribution*: Wealth is heavily skewed toward the top. Only 53 billionaires exceed the dataset average net worth of $31.84 Billion, while 147 sit below the mean.
 
+## **CONCLUSION**
+
+The global billionaire landscape is heavily concentrated in the United States and driven primarily by the Technology sector, though Telecom has the highest average net worth. Wealth is concentrated among an older demographic (average age of ~69.38 years), with individuals under 50 accounting for only 8% of total cumulative net worth. 
+To capture fast-evolving wealth trends, future analyses must examine long-term market movements alongside cross-border technology networks.
+
+
 
