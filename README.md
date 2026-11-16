@@ -12,3 +12,8 @@ about the top 200 billionaires, offering insights into their financial standing,
 more. It is a valuable resource for analyzing trends in wealth distribution, industry dominance,
 and the demographics of the world's richest people.
 *Data Source*: [click here](https://docs.google.com/spreadsheets/d/1CYEHRdBF_yJ3ztRclXZl_x_W5mh2ob2D3_FWbhdxf_Y/edit?usp=sharing)
+
+## **VISUALIZATION**
+Utilizing SQLite database queries, this project evaluates the structural mechanisms underlying extreme wealth creation in the world.
+![](Visuals_of_the_analysis.png)
+
