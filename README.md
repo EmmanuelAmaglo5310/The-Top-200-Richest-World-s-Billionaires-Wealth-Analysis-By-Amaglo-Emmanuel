@@ -15,7 +15,7 @@ and the demographics of the world's richest people.
 
 ## **VISUALIZATION**
 Utilizing SQLite database queries, this project evaluates the structural mechanisms underlying extreme wealth creation in the world.
-![](Visuals_of_the_analysis.png)
+![](visuals.png)
 
  
 ## **DISCUSSION**
